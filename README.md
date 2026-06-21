@@ -1,7 +1,6 @@
-<img width="736" height="414" alt="Itachi Uchiha Wallpaper 4k HD Wallpaper" src="https://github.com/user-attachments/assets/78c1c095-9bce-44f9-badb-837c6865aacb" />
 # AnimeVerse: 20K+ Real Anime Records from AniList API
-
 A comprehensive anime dataset containing 20,000+ real anime records collected directly from the AniList GraphQL API.
+<img width="736" height="414" alt="Itachi Uchiha Wallpaper 4k HD Wallpaper" src="https://github.com/user-attachments/assets/78c1c095-9bce-44f9-badb-837c6865aacb" />
 
 The dataset includes ratings, popularity metrics, favorites, genres, studios, release information, formats, and production metadata, making it suitable for machine learning, recommendation systems, analytics, and data visualization projects.
 
