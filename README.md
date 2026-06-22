@@ -5,6 +5,8 @@ A comprehensive anime dataset containing 20,000+ real anime records collected di
 
 The dataset includes ratings, popularity metrics, favorites, genres, studios, release information, formats, and production metadata, making it suitable for machine learning, recommendation systems, analytics, and data visualization projects.
 
+Kaggle Link : [https://www.kaggle.com/datasets/velvetcrystal/from-naruto-to-one-piece-20k-real-anime-dataset]
+
 ## Overview
 
 This dataset contains authentic anime metadata sourced directly from AniList. All records were collected programmatically using Python and the AniList GraphQL API.
